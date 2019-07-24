@@ -1,5 +1,5 @@
 title: Stackbit Azimuth Theme
-baseURL: https://protolabz.github.io/parallel-squid/
+baseURL: https://parallel-squid-80a02.netlify.com/
 params:
   palette: blue
   header:
@@ -23,7 +23,7 @@ params:
     content: '&copy; Stackbit. All rights reserved.'
     links:
       - text: Made with Stackbit
-        url: 'https://protolabz.github.io/parallel-squid/'
+        url: 'https://parallel-squid-80a02.netlify.com/'
         new_window: true
 disableKinds:
   - RSS
