@@ -1,5 +1,5 @@
 title: Stackbit Azimuth Theme
-baseURL: http://s0lbvyuoeuvpmw.updates.forestry.io
+baseURL: https://protolabz.github.io/parallel-squid/
 params:
   palette: blue
   header:
@@ -23,7 +23,7 @@ params:
     content: '&copy; Stackbit. All rights reserved.'
     links:
       - text: Made with Stackbit
-        url: 'http://s0lbvyuoeuvpmw.updates.forestry.io'
+        url: 'https://protolabz.github.io/parallel-squid/'
         new_window: true
 disableKinds:
   - RSS
