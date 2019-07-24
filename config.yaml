@@ -23,7 +23,7 @@ params:
     content: '&copy; Stackbit. All rights reserved.'
     links:
       - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+        url: 'https://protolabz.github.io/parallel-squid/'
         new_window: true
 disableKinds:
   - RSS
