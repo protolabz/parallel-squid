@@ -1,5 +1,5 @@
 title: Stackbit Azimuth Theme
-baseURL: /
+baseURL: https://protolabz.github.io/parallel-squid/
 params:
   palette: blue
   header:
